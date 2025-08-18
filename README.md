@@ -44,7 +44,7 @@ classification. 🖼️🔍
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/yourusername/persian-alphabet-recognition.git
+    git clone https://github.com/shahin-ro/persian-alphabet-recognition.git
     ```
 
 2.  Install dependencies:
